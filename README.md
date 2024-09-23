@@ -12,3 +12,7 @@
 NOT: Dosya yollarını kontrol ediniz. Lütfen tüm dosya yollarının doğru ve eksiksiz olduğundan emin olun. Yanlış dosya yolları, uygulamanın düzgün çalışmamasına neden olabilir.
 
 NOTE: Please check the file paths. Ensure that all file paths are correct and complete. Incorrect file paths may cause the application to malfunction.
+
+NOT: Bu proje, veri tabanı ve verilerin paylaşılmadığını belirtmektedir. Proje yalnızca kod yapısını ve uygulama mantığını anlamak amacıyla sunulmuştur.
+
+NOTE: This project indicates that the database and data have not been shared. The project is provided solely for understanding the code structure and application logic.
